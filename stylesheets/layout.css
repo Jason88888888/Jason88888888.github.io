@@ -254,6 +254,14 @@ p.header_text {
 .social img:hover {
 	opacity: 1;
 }
+.container {
+        max-width: 1080px;
+        width: 800px;
+        margin: 0 auto;
+        padding: 10px 20px;
+
+    }
+
 
 
 .h_contact {
